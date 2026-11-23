@@ -1,0 +1,8 @@
+{
+  "name": "XPulse",
+  "description": "XPulse is an AI-powered real-life RPG that transforms everyday experiences into an exciting journey of personal growth. Complete AI-generated quests, earn experience points, level up your character, and develop attributes such as intelligence, strength, discipline, creativity, and wisdom. Chronicle your daily experiences through an AI Game Master that evaluates your progress and suggests meaningful rewards. Unlock unique achievements, earn titles, discover rare collectibles, and track your evolution through detailed statistics. Whether you're learning new skills, building projects, exercising, or overcoming challenges, every meaningful experience becomes part of your adventure. Your reality is the game. Your evolution is the goal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
